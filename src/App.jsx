@@ -83,16 +83,19 @@ export default function App() {
               </p>
 
               <div className="hero-actions">
-                <a className="btn btn-gold" href="#contact">
-                  קבעו אימון ניסיון
-                </a>
-                <a className="btn btn-dark" href="#">
-                  href="https://wa.me/9725XXXXXXXX"
-                  target="_blank"
-                >
-                  וואטסאפ
-                </a>
-              </div>
+  <a className="btn btn-gold" href="#contact">
+    קבעו אימון ניסיון
+  </a>
+
+  <a
+    className="btn btn-dark"
+    href="https://wa.me/9725XXXXXXXX"
+    target="_blank"
+    rel="noreferrer"
+  >
+    וואטסאפ
+  </a>
+</div>
 
               <div className="stats">
                 <div className="stat-card">
