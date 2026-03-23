@@ -89,7 +89,7 @@ export default function App() {
 
   <a
     className="btn btn-dark"
-    href="https://wa.me/9725XXXXXXXX"
+    href="https://wa.me/972502911129"
     target="_blank"
     rel="noreferrer"
   >
