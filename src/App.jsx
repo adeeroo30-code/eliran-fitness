@@ -87,6 +87,9 @@ export default function App() {
                   קבעו אימון ניסיון
                 </a>
                 <a className="btn btn-dark" href="#">
+                  href="https://wa.me/9725XXXXXXXX"
+                  target="_blank"
+                >
                   וואטסאפ
                 </a>
               </div>
